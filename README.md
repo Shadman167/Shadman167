@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a fourth-year student in McGill University,<br>passionate about rxploring the realms of <br>coding, machine learning, and building <br>robust applications.
+I am a fourth-year student in McGill University, passionate about rxploring the realms of <br>coding, machine learning, and building <br>robust applications.
 
 
 ## 🌐 Socials:
