@@ -1,6 +1,8 @@
 # 💫 About Me:
 I am a fourth-year student in McGill University, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
+I enjoying learning through personal projects and open source project contributions! I am eager to learn more and like-minded individuals who continously innovates and improves.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/shadman.chowdhury.90226/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/md-shadman-asif-chowdhury-0b9bb624b/) 
